@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lwtr-labs&layout=compact&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lwtr)](https://solved.ac/lwtr)
